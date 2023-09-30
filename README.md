@@ -1,4 +1,4 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I am James
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi,
 
 <img align="right" height=200 width=200 alt="Catpuccino gif" src="https://raw.githubusercontent.com/EdenEast/EdenEast/main/assets/coffee-cat.gif" />
 
